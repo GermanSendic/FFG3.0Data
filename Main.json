@@ -6,11 +6,11 @@
     "Temporada" : 4,
     "Festive" : 0,
     
-    "NewsText" : ["Estamos teniendo problemas con el sistema de reinciado de temporada, si sigues con tu nivel de la temporada pasada, hablame en discord para poder ayudarte German's Project#2798","We are having problems with the season restart system, if you continue with your level from the past season, talk to me in discord to help you German's Project #2798"],
+    "NewsText" : ["tienda actualizada, mantente alerta"],
     "NewsImageType" : [0,0],
     "NewsFestive" : 0,
     "ItemShopSkinToShow" : 4,
-    "LastPatchNote" : 24,
+    "LastPatchNote" : 28,
     "RecentUpdate" : "https://www.youtube.com/watch?v=3cWra6u7vro",
     
       "CanBePlayed?" : true,
@@ -21,8 +21,8 @@
     "NextSeason": "Indefinido",
     "BattlePassSkins" : [9, 10, 11, 12, 13,14,15],    
     "BattlepassEmotess": [4, 5, 6, 7, 8],
-    "ItemShopSkinss" : [3, 7, 18],
-    "ItemShopSecundarySkinss" : [43,45],
+    "ItemShopSkinss" : [68, 34, 3],
+    "ItemShopSecundarySkinss" : [39,50],
     "ItemShopEmotess" : [18, 11],
    
 
